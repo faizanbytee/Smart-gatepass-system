@@ -1,0 +1,47 @@
+[
+    {
+        "Algorithm": "KNN",
+        "Train_Accuracy": 1.0,
+        "Test_Accuracy": 0.8695,
+        "Precision": 0.6974,
+        "Recall": 0.5925,
+        "F1_Score": 0.6407,
+        "ROC_AUC": 0.8865
+    },
+    {
+        "Algorithm": "Logistic Regression",
+        "Train_Accuracy": 0.8165,
+        "Test_Accuracy": 0.8234,
+        "Precision": 0.6127,
+        "Recall": 0.2727,
+        "F1_Score": 0.3774,
+        "ROC_AUC": 0.8141
+    },
+    {
+        "Algorithm": "Support Vector Machines",
+        "Train_Accuracy": 0.843,
+        "Test_Accuracy": 0.8338,
+        "Precision": 0.687,
+        "Recall": 0.2821,
+        "F1_Score": 0.4,
+        "ROC_AUC": 0.8418
+    },
+    {
+        "Algorithm": "Decision Trees",
+        "Train_Accuracy": 0.9249,
+        "Test_Accuracy": 0.8215,
+        "Precision": 0.5502,
+        "Recall": 0.4984,
+        "F1_Score": 0.523,
+        "ROC_AUC": 0.788
+    },
+    {
+        "Algorithm": "Random Forest",
+        "Train_Accuracy": 0.991,
+        "Test_Accuracy": 0.88,
+        "Precision": 0.787,
+        "Recall": 0.5329,
+        "F1_Score": 0.6355,
+        "ROC_AUC": 0.9069
+    }
+]

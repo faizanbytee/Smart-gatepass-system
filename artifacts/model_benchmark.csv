@@ -1,0 +1,6 @@
+Algorithm,Train_Accuracy,Test_Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Random Forest,0.991,0.88,0.787,0.5329,0.6355,0.9069
+KNN,1.0,0.8695,0.6974,0.5925,0.6407,0.8865
+Support Vector Machines,0.843,0.8338,0.687,0.2821,0.4,0.8418
+Logistic Regression,0.8165,0.8234,0.6127,0.2727,0.3774,0.8141
+Decision Trees,0.9249,0.8215,0.5502,0.4984,0.523,0.788
